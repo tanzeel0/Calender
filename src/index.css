@@ -1,0 +1,28 @@
+/* Sidebar function hover */
+.sidebar-function:hover,
+.sidebar-function.active {
+  color: blue;
+}
+
+/* Profile hover */
+.profile:hover,
+.profile.active {
+  color: blue;
+  border-color: blue; /* if you want border to change too */
+}
+
+/* Add Event button hover */
+.add-event-btn:hover,
+.add-event-btn.active {
+  background-color: blue;
+  color: #fff;
+  border-color: blue;
+}
+
+/* Calendar date hover */
+.calendar-date:hover,
+.calendar-date.active {
+  background-color: blue;
+  color: #fff;
+  border-radius: 50%;
+}
